@@ -6,6 +6,7 @@ import java.util.List;
 import java.util.PriorityQueue;
 
 /**
+ * Followed Tech Granth APproach from https://www.youtube.com/watch?v=dyxrN3kWC4k
  * Time : O(NlogN)
  * Space : O(N)
  * N: Output value to keep track of the result
